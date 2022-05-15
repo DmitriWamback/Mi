@@ -1,0 +1,9 @@
+[submodule "Mi-engine"]
+	path = Mi-engine
+	url = https://github.com/DmitriWamback/Mi-engine
+[submodule "Mi-lib"]
+	path = Mi-lib
+	url = https://github.com/DmitriWamback/Mi-lib
+[submodule "Mi-Registry"]
+	path = Mi-Registry
+	url = https://github.com/DmitriWamback/Mi-Registry
